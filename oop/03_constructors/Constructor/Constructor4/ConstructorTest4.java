@@ -7,6 +7,7 @@
 
 public class ConstructorTest4 {
     public static void main(String[] args) {
-        new Constructor4();  // Call the no-args constructor
+    // Call the no-args constructor
+        new Constructor4();  
     }
 }
