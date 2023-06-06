@@ -1,3 +1,6 @@
+//Question 9, fixing the code so that it compiles
+
+
 public class InheritanceTest {
     public static void main(String[] args) {
         Child myVar = new Child();
