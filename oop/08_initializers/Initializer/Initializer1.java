@@ -1,3 +1,5 @@
+// Question 8, Lesson 4 - Initializers
+
 public class Initializer1 {
 	
 	public Initializer1(){
