@@ -1,3 +1,6 @@
+// Question 8, Lesson 4 - Initializers
+// Save the classes into respective separate files
+
 public class Initializer {
 
     public Initializer() {
