@@ -1,0 +1,6 @@
+//Write a java class that contains  a main method.
+public class Shoot{
+	public static void main(String [] args){
+
+	}
+}
